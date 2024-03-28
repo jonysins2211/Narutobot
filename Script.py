@@ -283,10 +283,10 @@ Name - {}
 🗞 ʟᴀɴɢᴜᴀɢᴇ : {languages}
 🌎 ᴄᴏᴜɴᴛʀʏ : {countries}
 
-𝙎𝙩𝙤𝙧𝙮 : <a <code>{plot}</code></b>
-"""
+𝙎𝙩𝙤𝙧𝙮 : f"Story: <code>{plot}</code>"
 
 ©{message.chat.title}
+</b>"""
 
     CUSTOM_FILE_CAPTION = """<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : {file_name}
 
