@@ -13,7 +13,7 @@
 
 ## OWNERS 
 
-[HORRID](https://t.me/HORRIDduo)
+[𝗖𝗢𝗢𝗟𝗧𝗘𝗖𝗛 [@ᴏꜰꜰʟɪɴᴇ]🇮🇳](https://t.me/COOLTECHdud)
 
 
 ## Features
