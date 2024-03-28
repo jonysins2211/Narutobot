@@ -283,6 +283,8 @@ Name - {}
 🗞 ʟᴀɴɢᴜᴀɢᴇ : {languages}
 🌎 ᴄᴏᴜɴᴛʀʏ : {countries}
 
+𝙎𝙩𝙤𝙧𝙮 : <code>{plot}</code>
+
 ©{message.chat.title}</b>
 """
 
