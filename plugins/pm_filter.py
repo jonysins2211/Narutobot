@@ -936,7 +936,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "spu":
         buttons = [[
             InlineKeyboardButton('Gʀᴏᴜᴘ', url='https://t.me/COOLTECHdud'),
-            InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='https://t.me/HORRIDduo'),
+            InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='https://t.me/COOLTECHdud'),
             ], [
             InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/XBOTSUPPORTS'),
             InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/botuptest'),
@@ -1538,7 +1538,7 @@ async def auto_filter(client, msg, spoll=False):
                     text=f"<b>Hᴇʏ {message.from_user.mention}, {str(total_results)} ʀᴇsᴜʟᴛs ᴀʀᴇ ғᴏᴜɴᴅ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ғᴏʀ ʏᴏᴜʀ ᴏ‌ᴜᴇʀʏ {search}. Kɪɴᴅʟʏ ᴜsᴇ ɪɴʟɪɴᴇ sᴇᴀʀᴄʜ ᴏʀ ᴍᴀᴋᴇ ᴀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴀᴅᴅ ᴍᴇ ᴀs ᴀᴅᴍɪɴ ᴛᴏ ɢᴇᴛ ᴍᴏᴠɪᴇ ғɪʟᴇs. Tʜɪs ɪs ᴀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ sᴏ ᴛʜᴀᴛ ʏᴏᴜ ᴄᴀɴ'ᴛ ɢᴇᴛ ғɪʟᴇs ғʀᴏᴍ ʜᴇʀᴇ...</b>",
                     reply_markup=InlineKeyboardMarkup(
                         [[
-                            InlineKeyboardButton('Rᴇǫᴜᴇsᴛ ʜᴇʀᴇ 🚀', url='https://t.me/JINN_GROUP')
+                            InlineKeyboardButton('Rᴇǫᴜᴇsᴛ ʜᴇʀᴇ 🚀', url='https://t.me/CIINEMA_TERTIARY_org')
                         ]]
                     )
                 )
