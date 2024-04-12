@@ -102,6 +102,7 @@ Security and Trust
 
 ```
 * /logs - to get the rescent errors
+* /start - to start the bot
 * /stats - to get status of files in db.
 * /filter - add manual filters
 * /filters - view filters
