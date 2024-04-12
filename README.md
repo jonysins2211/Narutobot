@@ -1,6 +1,6 @@
 <p align="center">
   <im<p align="center">
-   <img src="https://telegra.ph/file/91b93e3df64d237df5643.jpg" alt="NARUTO">
+   <img src="https://telegra.ph/file/0cd2a0ded9f8ab280384d.jpg" alt="ALLU ARJUN">
 
 <a href="https://t.me/narutoxv4bot">
   <img src="https://img.shields.io/badge/ʙᴏᴛ-red?logo=telegram" width="80">
@@ -13,7 +13,7 @@
 
 ## OWNERS 
 
-[HORRID](https://t.me/HORRIDduo)
+[UNNI_YT [@UNNI_YT]](https://t.me/UNNI_YT)
 
 
 ## Features
@@ -74,10 +74,35 @@ You can deploy this bot anywhere.
 <a href="https://heroku.com/deploy?template=https://github.com/Naruto46i/NARUTO-AUTO-FILTER-V-1">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
+  ### Deploy To Render
+  
+  <a href="https://render.com/deploy?repo=https://github.com/Jeronmathew44/NARUTO-AUTO-FILTER-V-1">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+
+Deploy to Render Button
+Specifying a Repository
+
+Specifying a Branch
+Configuring Auto-Deploys
+
+Button Generator
+
+Did this page help?
+Twitter
+LinkedIn
+GitHub
+Changelog
+Terms
+Privacy
+Security and Trust
+© Render 2023
+
 ## Commands
 
 ```
 * /logs - to get the rescent errors
+* /start - to start the bot
 * /stats - to get status of files in db.
 * /filter - add manual filters
 * /filters - view filters
