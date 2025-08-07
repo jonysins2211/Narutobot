@@ -100,7 +100,7 @@ IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 AI = is_enabled((environ.get("AI","True")), True)
 OPENAI_API = environ.get("OPENAI_API","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")
 GOOGLE_API_KEY = os.environ.get('API_KEY', '') # give your Google api key
-AI_LOGS = int(environ.get("AI_LOGS","-1002819191904")) #GIVE YOUR NEW LOG CHANNEL ID TO STORE MESSAGES THAT THEY SEARCH IN BOT PM.... [ i have added this to keep an eye on the users message, to avoid misuse of Bot ]
+AI_LOGS = int(environ.get("AI_LOGS","-1002858307046")) #GIVE YOUR NEW LOG CHANNEL ID TO STORE MESSAGES THAT THEY SEARCH IN BOT PM.... [ i have added this to keep an eye on the users message, to avoid misuse of Bot ]
 SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/XBOTSUPPRTS')
 
 
@@ -120,7 +120,7 @@ MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/Movie_loverzz")
 FILE_FORWARD = environ.get('FILE_FORWARD',"https://t.me/+OZwNX3AewkxZmNl")
 MSG_ALRT = environ.get('MSG_ALRT', '𝑪𝑯𝑬𝑪𝑲 & 𝑻𝑹𝒀 𝑨𝑳𝑳 𝑴𝒀 𝑭𝑬𝑨𝑻𝑼𝑹𝑬𝑺')
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', 0))
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1002819191904))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1002858307046))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '')
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
